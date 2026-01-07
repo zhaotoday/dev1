@@ -3,4 +3,5 @@
 - [sms-bridge](https://github.com/skylerhes/sms-bridge)
 
 #### 工具
+- [lime](https://github.com/xushengfeng/lime)
 - [pacexy/flow](https://github.com/pacexy/flow)
