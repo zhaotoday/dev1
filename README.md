@@ -1,3 +1,6 @@
+#### 网站
+- [nexty](https://nexty.dev/)
+
 #### 开源
 - [wechat-ai](https://github.com/nezhafan/wechat-ai)
 - [feishu-doc-helper](https://github.com/sancijun/feishu-doc-helper)
