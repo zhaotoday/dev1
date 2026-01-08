@@ -9,3 +9,6 @@
 #### 工具
 - [lime](https://github.com/xushengfeng/lime)
 - [pacexy/flow](https://github.com/pacexy/flow)
+
+#### 文章
+- [2025 提效别再卷了：当我把 AI 当“团队”，工作真的顺了](https://juejin.cn/post/7589839767816306726)
