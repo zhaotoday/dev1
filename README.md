@@ -2,6 +2,7 @@
 - [nexty](https://nexty.dev/)
 
 #### 开源
+- [openscreen](https://github.com/siddharthvaddem/openscreen)
 - [siyuan](https://github.com/siyuan-note/siyuan)
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
 - [wechat-ai](https://github.com/nezhafan/wechat-ai)
