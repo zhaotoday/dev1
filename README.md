@@ -2,6 +2,7 @@
 - [nexty](https://nexty.dev/)
 
 #### 开源
+- [lottery](https://github.com/moshang-ax/lottery)
 - [PasteMD](http://github.com/RICHQAQ/PasteMD)
 - [openscreen](https://github.com/siddharthvaddem/openscreen)
 - [siyuan](https://github.com/siyuan-note/siyuan)
