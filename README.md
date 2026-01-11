@@ -11,6 +11,7 @@
 - [sms-bridge](https://github.com/skylerhes/sms-bridge)
 
 #### 工具
+- [脆球企业邮箱](https://www.cuiqiu.com/)
 - [lime](https://github.com/xushengfeng/lime)
 - [pacexy/flow](https://github.com/pacexy/flow)
 
