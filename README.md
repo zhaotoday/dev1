@@ -2,6 +2,7 @@
 - [nexty](https://nexty.dev/)
 
 #### 开源
+- [Termix-SSH](https://github.com/Termix-SSH)
 - [TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer)
 - [log-lottery](https://github.com/LOG1997/log-lottery)
 - [lottery](https://github.com/moshang-ax/lottery)
