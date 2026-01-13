@@ -20,5 +20,6 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [Qiankun vs Wujie：微前端框架深度对比](https://juejin.cn/post/7589159665854890003)
 - [前端新玩具：Vike 发布！](https://juejin.cn/post/7569798982940885028)
 - [2025 提效别再卷了：当我把 AI 当“团队”，工作真的顺了](https://juejin.cn/post/7589839767816306726)
