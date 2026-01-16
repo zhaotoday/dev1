@@ -5,6 +5,7 @@
 - [exportx](https://www.exportx.dev/zh)
 
 #### 开源
+- [lossless-cut](https://github.com/mifi/lossless-cut)
 - [devtools-hub](https://github.com/wxingda/devtools-hub)
 - [Termix-SSH](https://github.com/Termix-SSH)
 - [TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer)
