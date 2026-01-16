@@ -1,6 +1,9 @@
 #### 网站
 - [nexty](https://nexty.dev/)
 
+#### 产品
+- [exportx](https://www.exportx.dev/zh)
+
 #### 开源
 - [devtools-hub](https://github.com/wxingda/devtools-hub)
 - [Termix-SSH](https://github.com/Termix-SSH)
