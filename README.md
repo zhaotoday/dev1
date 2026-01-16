@@ -24,6 +24,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [Linux再添一员猛将，操作完全不输Windows！](https://juejin.cn/post/7592040819818004521)
 - [在 Web 前端实现流式 TTS 播放](https://juejin.cn/post/7548595210563797007)
 - [Qiankun vs Wujie：微前端框架深度对比](https://juejin.cn/post/7589159665854890003)
 - [前端新玩具：Vike 发布！](https://juejin.cn/post/7569798982940885028)
