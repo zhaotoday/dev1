@@ -25,6 +25,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [盘点这两年我接触过的副业赚钱赛道，对于你来说可能是信息差](https://juejin.cn/post/7571672422689865780)
 - [AI编程出海门槛降低，PayPal可开通国内个人账户](https://juejin.cn/post/7595858353660559394)
 - [Linux再添一员猛将，操作完全不输Windows！](https://juejin.cn/post/7592040819818004521)
 - [在 Web 前端实现流式 TTS 播放](https://juejin.cn/post/7548595210563797007)
