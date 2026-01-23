@@ -5,6 +5,7 @@
 - [exportx](https://www.exportx.dev/zh)
 
 #### 开源
+- [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [dongguaTV](https://github.com/Minerchu/dongguaTV)
 - [lossless-cut](https://github.com/mifi/lossless-cut)
 - [devtools-hub](https://github.com/wxingda/devtools-hub)
