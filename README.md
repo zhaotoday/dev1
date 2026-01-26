@@ -1,5 +1,6 @@
 #### 网站
 - [nexty](https://nexty.dev/)
+- [npmx](https://npmx.dev/)
 
 #### 产品
 - [exportx](https://www.exportx.dev/zh)
