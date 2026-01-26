@@ -28,6 +28,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [AudioDock](https://juejin.cn/post/7587965908288749578)
 - [为什么你的 AI 产品总是做不起来？90%的人忽略了这两个底层模型](https://juejin.cn/post/7567009647632531471)
 - [盘点这两年我接触过的副业赚钱赛道，对于你来说可能是信息差](https://juejin.cn/post/7571672422689865780)
 - [AI编程出海门槛降低，PayPal可开通国内个人账户](https://juejin.cn/post/7595858353660559394)
