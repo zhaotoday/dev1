@@ -28,6 +28,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [基于 Squoosh WASM 的浏览器端图片转换库](https://juejin.cn/post/7592483877986451462)
 - [2025 年最火的前端项目出炉，No.1 易主！](https://juejin.cn/post/7592134330313179179)
 - [AudioDock](https://juejin.cn/post/7587965908288749578)
 - [为什么你的 AI 产品总是做不起来？90%的人忽略了这两个底层模型](https://juejin.cn/post/7567009647632531471)
