@@ -28,6 +28,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [企业级人脸识别ArcFace系统架构与实现：从零到一构建高性能智能识别平台](https://juejin.cn/post/7599847938538749961)
 - [基于 Squoosh WASM 的浏览器端图片转换库](https://juejin.cn/post/7592483877986451462)
 - [2025 年最火的前端项目出炉，No.1 易主！](https://juejin.cn/post/7592134330313179179)
 - [AudioDock](https://juejin.cn/post/7587965908288749578)
