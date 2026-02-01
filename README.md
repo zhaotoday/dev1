@@ -3,6 +3,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 产品
+- [shots](https://shots.so/)
 - [tapnow](https://app.tapnow.top/)
 - [exportx](https://www.exportx.dev/zh)
 - [AI Code With](https://aicodewith.com/zh)
