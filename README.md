@@ -9,6 +9,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [flowbot](https://flowbot.apifox.cn/)
 - [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [dongguaTV](https://github.com/Minerchu/dongguaTV)
 - [lossless-cut](https://github.com/mifi/lossless-cut)
