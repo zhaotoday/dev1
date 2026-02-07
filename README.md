@@ -9,6 +9,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [shannon](https://github.com/KeygraphHQ/shannon)
 - [awesome-design-resources](https://github.com/hqasmei/awesome-design-resources)
 - [product-design-roadmap](https://github.com/anastasiaprh/product-design-roadmap)
 - [flowbot](https://flowbot.apifox.cn/)
