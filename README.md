@@ -36,6 +36,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [前端视界：前端搞基建-工程化&AI赋能](https://juejin.cn/post/7471870319094824995)
 - [自己搭邮件服务器有多难？我用 Mailu 跑通了整套企业邮箱](https://juejin.cn/post/7602488966610108454)
 - [企业级人脸识别ArcFace系统架构与实现：从零到一构建高性能智能识别平台](https://juejin.cn/post/7599847938538749961)
 - [基于 Squoosh WASM 的浏览器端图片转换库](https://juejin.cn/post/7592483877986451462)
