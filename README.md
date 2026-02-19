@@ -9,6 +9,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [wxauto](https://github.com/cluic/wxauto)
 - [WeFlow](https://github.com/hicccc77/WeFlow)
 - [shannon](https://github.com/KeygraphHQ/shannon)
 - [awesome-design-resources](https://github.com/hqasmei/awesome-design-resources)
