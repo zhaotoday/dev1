@@ -9,6 +9,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [openwrt](https://github.com/openwrt/openwrt)
 - [wxauto](https://github.com/cluic/wxauto)
 - [WeFlow](https://github.com/hicccc77/WeFlow)
 - [shannon](https://github.com/KeygraphHQ/shannon)
