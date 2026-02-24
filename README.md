@@ -3,6 +3,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 产品
+- [千宿科技](http://cloud.qsuyun.com/index.php)
 - [shots](https://shots.so/)
 - [tapnow](https://app.tapnow.top/)
 - [exportx](https://www.exportx.dev/zh)
