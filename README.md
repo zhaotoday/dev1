@@ -11,6 +11,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs)
 - [openwrt](https://github.com/openwrt/openwrt)
 - [wxauto](https://github.com/cluic/wxauto)
 - [WeFlow](https://github.com/hicccc77/WeFlow)
