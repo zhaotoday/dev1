@@ -13,6 +13,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [voicebox](https://github.com/jamiepine/voicebox)
 - [Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs)
 - [openwrt](https://github.com/openwrt/openwrt)
 - [wxauto](https://github.com/cluic/wxauto)
