@@ -45,6 +45,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [前端需要掌握的网络基础](https://juejin.cn/post/7542729855545688106)
 - [2026 年 IM 怎么选？聊聊 4 家主流即时通讯方案的差异](https://juejin.cn/post/7605782093482049562)
 - [前端视界：前端搞基建-工程化&AI赋能](https://juejin.cn/post/7471870319094824995)
 - [自己搭邮件服务器有多难？我用 Mailu 跑通了整套企业邮箱](https://juejin.cn/post/7602488966610108454)
