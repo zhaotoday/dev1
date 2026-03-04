@@ -13,6 +13,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [RuView](https://github.com/ruvnet/RuView)
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 - [voicebox](https://github.com/jamiepine/voicebox)
 - [Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs)
