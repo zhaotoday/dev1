@@ -3,6 +3,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 产品
+- [hi-offer](https://hi-offer.net/)
 - [cognitum](https://cognitum.one/)
 - [intellidraw](https://www.intellidraw.top/)
 - [sqlark](https://www.sqlark.com/)
