@@ -17,6 +17,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [one-person-unicorn-book](https://github.com/easychen/one-person-unicorn-book)
 - [skill-icons](https://github.com/tandpfun/skill-icons)
 - [ruvector](https://github.com/ruvnet/ruvector)
 - [RuView](https://github.com/ruvnet/RuView)
