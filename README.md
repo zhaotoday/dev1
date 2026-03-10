@@ -17,6 +17,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [WeChatDataAnalysis](https://github.com/zmzimpl/WeChatDataAnalysis)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)
 - [one-person-company](https://github.com/aooyoo/one-person-company)
 - [one-person-unicorn-book](https://github.com/easychen/one-person-unicorn-book)
