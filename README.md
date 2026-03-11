@@ -3,6 +3,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 产品
+- [meteor3d](https://meteor3d.cn/)
 - [tikhub](https://www.tikhub.io/)
 - [quackr](https://quackr.io/)
 - [phone2](https://www.phone2.io/)
