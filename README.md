@@ -18,6 +18,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [playcanvas/engine](https://github.com/playcanvas/engine)
 - [WeChatDataAnalysis](https://github.com/zmzimpl/WeChatDataAnalysis)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)
 - [one-person-company](https://github.com/aooyoo/one-person-company)
