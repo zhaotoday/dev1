@@ -18,6 +18,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco)
 - [playcanvas/engine](https://github.com/playcanvas/engine)
 - [WeChatDataAnalysis](https://github.com/zmzimpl/WeChatDataAnalysis)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)
