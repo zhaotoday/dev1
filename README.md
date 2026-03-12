@@ -2,6 +2,9 @@
 - [nexty](https://nexty.dev/)
 - [npmx](https://npmx.dev/)
 
+#### 文档
+- [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
+
 #### 产品
 - [123apps](https://123apps.com/)
 - [meteor3d](https://meteor3d.cn/)
