@@ -24,6 +24,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [chat-sdk](https://chat-sdk.dev/)
 - [xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco)
 - [playcanvas/engine](https://github.com/playcanvas/engine)
 - [WeChatDataAnalysis](https://github.com/zmzimpl/WeChatDataAnalysis)
