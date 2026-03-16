@@ -1,4 +1,5 @@
 #### 网站
+- [fontawesome](https://fontawesome.com/)
 - [nexty](https://nexty.dev/)
 - [npmx](https://npmx.dev/)
 
