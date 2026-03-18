@@ -24,6 +24,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [web-content-fetcher](https://github.com/shirenchuang/web-content-fetcher)
 - [phantomas](https://github.com/macbre/phantomas)
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
 - [chat-sdk](https://chat-sdk.dev/)
