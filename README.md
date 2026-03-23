@@ -27,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [KVideo](https://github.com/KuekHaoYang/KVideo)
 - [wechatbot](https://github.com/sorrycc/wechatbot)
 - [domain-admin](https://github.com/dromara/domain-admin)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
