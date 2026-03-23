@@ -27,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [free-video-downloader](https://github.com/liyupi/free-video-downloader)
 - [KVideo](https://github.com/KuekHaoYang/KVideo)
 - [wechatbot](https://github.com/sorrycc/wechatbot)
 - [domain-admin](https://github.com/dromara/domain-admin)
