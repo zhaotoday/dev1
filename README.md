@@ -27,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [wechatbot](https://github.com/sorrycc/wechatbot)
 - [domain-admin](https://github.com/dromara/domain-admin)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [web-content-fetcher](https://github.com/shirenchuang/web-content-fetcher)
