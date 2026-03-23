@@ -75,6 +75,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow)
 
 #### 文章
+- [单点登录：一次登录，全网通行](https://juejin.cn/post/7577599015426228259)
 - [给大龄（35岁+）程序员的绝地求生计划书](https://juejin.cn/post/7543976401176985643)
 - [前端需要掌握的网络基础](https://juejin.cn/post/7542729855545688106)
 - [2026 年 IM 怎么选？聊聊 4 家主流即时通讯方案的差异](https://juejin.cn/post/7605782093482049562)
