@@ -4,7 +4,6 @@
 - [npmx](https://npmx.dev/)
 
 #### 文档
-- [AiToEarn](https://github.com/yikart/AiToEarn)
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 #### 产品
@@ -28,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [AiToEarn](https://github.com/yikart/AiToEarn)
 - [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)
 - [flatnotes](https://github.com/dullage/flatnotes)
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
