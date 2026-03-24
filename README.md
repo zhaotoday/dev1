@@ -4,6 +4,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 文档
+- [AiToEarn](https://github.com/yikart/AiToEarn)
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 #### 产品
