@@ -27,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [iptv](https://github.com/iptv-org/iptv)
 - [AiToEarn](https://github.com/yikart/AiToEarn)
 - [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)
 - [flatnotes](https://github.com/dullage/flatnotes)
