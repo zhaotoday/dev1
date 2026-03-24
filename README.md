@@ -27,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)
 - [flatnotes](https://github.com/dullage/flatnotes)
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 - [free-video-downloader](https://github.com/liyupi/free-video-downloader)
