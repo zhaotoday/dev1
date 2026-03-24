@@ -27,6 +27,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [flatnotes](https://github.com/dullage/flatnotes)
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 - [free-video-downloader](https://github.com/liyupi/free-video-downloader)
 - [KVideo](https://github.com/KuekHaoYang/KVideo)
