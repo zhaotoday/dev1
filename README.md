@@ -28,6 +28,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [wecom](https://github.com/YanHaidao/wecom)
 - [weixin-bot](https://github.com/epiral/weixin-bot)
 - [iptv](https://github.com/iptv-org/iptv)
 - [AiToEarn](https://github.com/yikart/AiToEarn)
