@@ -5,6 +5,7 @@
 
 #### 文档
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [WecomTeam](https://github.com/WecomTeam)
 
 #### 产品
 - [bright](https://www.bright.cn/)
