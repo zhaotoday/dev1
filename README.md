@@ -28,6 +28,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [awesome-one-person-company](https://github.com/chen103226/awesome-one-person-company)
 - [open-saas](https://github.com/wasp-lang/open-saas)
 - [wecom](https://github.com/YanHaidao/wecom)
 - [weixin-bot](https://github.com/epiral/weixin-bot)
