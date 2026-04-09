@@ -28,6 +28,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Checkmate](https://github.com/bluewave-labs/Checkmate)
 - [career-ops](https://github.com/santifer/career-ops)
 - [awesome-one-person-company](https://github.com/chen103226/awesome-one-person-company)
 - [open-saas](https://github.com/wasp-lang/open-saas)
