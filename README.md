@@ -29,6 +29,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [FreeGFW](https://github.com/HaradaKashiwa/FreeGFW)
 - [system-design-interview](https://github.com/summerjava/system-design-interview)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate)
