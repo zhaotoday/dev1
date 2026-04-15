@@ -29,6 +29,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [system-design-interview](https://github.com/summerjava/system-design-interview)
 - [Checkmate](https://github.com/bluewave-labs/Checkmate)
 - [career-ops](https://github.com/santifer/career-ops)
 - [awesome-one-person-company](https://github.com/chen103226/awesome-one-person-company)
