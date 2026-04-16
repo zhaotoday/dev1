@@ -29,6 +29,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [FreeGFW](https://github.com/HaradaKashiwa/FreeGFW)
 - [system-design-interview](https://github.com/summerjava/system-design-interview)
