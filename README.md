@@ -29,6 +29,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [maily.to](https://github.com/arikchakma/maily.to)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [FreeGFW](https://github.com/HaradaKashiwa/FreeGFW)
