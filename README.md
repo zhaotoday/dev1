@@ -29,6 +29,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Tabminal](https://github.com/Leask/Tabminal)
 - [deskflow](https://github.com/deskflow/deskflow)
 - [maily.to](https://github.com/arikchakma/maily.to)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
