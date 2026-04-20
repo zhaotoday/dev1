@@ -29,6 +29,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [deskflow](https://github.com/deskflow/deskflow)
 - [maily.to](https://github.com/arikchakma/maily.to)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
