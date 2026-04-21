@@ -8,6 +8,9 @@
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [WecomTeam](https://github.com/WecomTeam)
 
+#### 工具
+- [clumsy](https://jagt.github.io/clumsy/)
+
 #### 产品
 - [bright](https://www.bright.cn/)
 - [brightdata](https://brightdata.com/products/web-scraper)
