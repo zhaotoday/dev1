@@ -32,6 +32,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [ChatLab](https://github.com/hellodigua/ChatLab)
 - [Tabminal](https://github.com/Leask/Tabminal)
 - [deskflow](https://github.com/deskflow/deskflow)
 - [maily.to](https://github.com/arikchakma/maily.to)
