@@ -32,6 +32,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [RedBox](https://github.com/Jamailar/RedBox)
 - [ChatLab](https://github.com/hellodigua/ChatLab)
 - [Tabminal](https://github.com/Leask/Tabminal)
