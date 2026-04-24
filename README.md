@@ -12,6 +12,7 @@
 - [clumsy](https://jagt.github.io/clumsy/)
 
 #### 产品
+- [free-fs](https://free-fs.top/zh)
 - [bright](https://www.bright.cn/)
 - [brightdata](https://brightdata.com/products/web-scraper)
 - [jsonscraper](https://jsonscraper.com/zh/)
