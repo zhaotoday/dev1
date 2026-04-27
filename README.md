@@ -33,6 +33,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [casdoor](https://github.com/casdoor/casdoor)
 - [tolaria](https://github.com/refactoringhq/tolaria)
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [RedBox](https://github.com/Jamailar/RedBox)
