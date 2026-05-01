@@ -37,6 +37,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [NotionNext](https://github.com/tangly1024/NotionNext)
 - [miao](https://github.com/YUxiangLuo/miao)
 - [casdoor](https://github.com/casdoor/casdoor)
 - [tolaria](https://github.com/refactoringhq/tolaria)
