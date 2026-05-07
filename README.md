@@ -38,6 +38,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [mswnlz](https://github.com/mswnlz)
 - [NotionNext](https://github.com/tangly1024/NotionNext)
 - [miao](https://github.com/YUxiangLuo/miao)
 - [casdoor](https://github.com/casdoor/casdoor)
