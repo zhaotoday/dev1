@@ -38,6 +38,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [maigret](https://github.com/soxoj/maigret)
 - [bunkerweb](https://github.com/bunkerity/bunkerweb)
 - [mswnlz](https://github.com/mswnlz)
 - [NotionNext](https://github.com/tangly1024/NotionNext)
