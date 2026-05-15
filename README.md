@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [awesome-vpn](https://github.com/awesome-vpn/awesome-vpn)
 - [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 - [maigret](https://github.com/soxoj/maigret)
 - [bunkerweb](https://github.com/bunkerity/bunkerweb)
