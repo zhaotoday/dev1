@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [copicseal](https://github.com/copicseal/copicseal)
 - [web-check](https://github.com/Lissy93/web-check)
 - [Mole](https://github.com/tw93/Mole)
 - [awesome-vpn](https://github.com/awesome-vpn/awesome-vpn)
