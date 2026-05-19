@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [stackprism](https://github.com/setube/stackprism)
 - [copicseal](https://github.com/copicseal/copicseal)
 - [web-check](https://github.com/Lissy93/web-check)
 - [Mole](https://github.com/tw93/Mole)
