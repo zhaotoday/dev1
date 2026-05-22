@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [video_vip](https://github.com/88lin/video_vip)
 - [noVNC](https://github.com/novnc/noVNC)
 - [stackprism](https://github.com/setube/stackprism)
 - [copicseal](https://github.com/copicseal/copicseal)
