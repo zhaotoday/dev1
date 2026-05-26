@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [open-pencil](https://github.com/open-pencil/open-pencil)
 - [BillionMail](https://github.com/Billionmail/BillionMail)
 - [dokploy](https://github.com/Dokploy/dokploy)
 - [video_vip](https://github.com/88lin/video_vip)
