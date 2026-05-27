@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
 - [open-pencil](https://github.com/open-pencil/open-pencil)
 - [BillionMail](https://github.com/Billionmail/BillionMail)
 - [dokploy](https://github.com/Dokploy/dokploy)
