@@ -39,6 +39,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [ip2region](https://github.com/lionsoul2014/ip2region)
 - [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 - [openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
 - [open-pencil](https://github.com/open-pencil/open-pencil)
