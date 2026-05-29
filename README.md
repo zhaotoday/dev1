@@ -40,6 +40,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [FastTunnel](https://gitee.com/Hgui/FastTunnel)
 - [linker](https://github.com/snltty/linker)
 - [ip2region](https://github.com/lionsoul2014/ip2region)
 - [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
