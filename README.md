@@ -40,6 +40,8 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [easytier-manager](https://github.com/EasyTier/easytier-manager)
+- [EasyTier](https://github.com/EasyTier/EasyTier)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [FastTunnel](https://gitee.com/Hgui/FastTunnel)
 - [linker](https://github.com/snltty/linker)
