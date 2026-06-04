@@ -10,6 +10,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 文档
+- [开源软件指南](https://opensource.guide/zh-hans/)
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [WecomTeam](https://github.com/WecomTeam)
 
