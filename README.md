@@ -42,6 +42,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
 - [cloud-mail](https://github.com/maillab/cloud-mail)
 - [dbsyncer](https://github.com/86dbs/dbsyncer)
 - [easytier-manager](https://github.com/EasyTier/easytier-manager)
