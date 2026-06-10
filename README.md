@@ -1,4 +1,5 @@
 #### 网站
+- [svganimate](https://svganimate.ai/zh/home)
 - [Node Modules Inspector](https://node-modules.dev/)
 - [supabase](https://supabase.com/)
 - [coolify](https://coolify.io/)
