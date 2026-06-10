@@ -41,6 +41,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [dbsyncer](https://github.com/86dbs/dbsyncer)
 - [easytier-manager](https://github.com/EasyTier/easytier-manager)
 - [EasyTier](https://github.com/EasyTier/EasyTier)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
