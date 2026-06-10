@@ -42,6 +42,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [KasmVNC](https://github.com/kasmtech/KasmVNC)
 - [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
 - [cloud-mail](https://github.com/maillab/cloud-mail)
 - [dbsyncer](https://github.com/86dbs/dbsyncer)
