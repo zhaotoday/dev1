@@ -42,6 +42,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [livekit](https://github.com/livekit/livekit)
 - [KasmVNC](https://github.com/kasmtech/KasmVNC)
 - [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
 - [cloud-mail](https://github.com/maillab/cloud-mail)
