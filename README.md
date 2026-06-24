@@ -1,4 +1,5 @@
 #### 网站
+- [webfunny](https://www.webfunny.com/)
 - [sentry](https://sentry.io/)
 - [web.dev](https://web.dev/?hl=zh-cn)
 - [svganimate](https://svganimate.ai/zh/home)
