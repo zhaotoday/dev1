@@ -45,6 +45,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [ocsjs](https://github.com/ocsjs/ocsjs)
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [dbx](https://github.com/t8y2/dbx)
 - [GoNavi](https://github.com/Syngnat/GoNavi)
