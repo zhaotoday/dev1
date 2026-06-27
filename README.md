@@ -45,6 +45,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) 
 - [ocsjs](https://github.com/ocsjs/ocsjs)
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [dbx](https://github.com/t8y2/dbx)
