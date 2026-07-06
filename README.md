@@ -23,6 +23,9 @@
 - [programmingfonts](https://www.programmingfonts.org/)
 - [clumsy](https://jagt.github.io/clumsy/)
 
+#### 开发环境
+- [redis-windows](https://github.com/redis-windows/redis-windows)
+
 #### 产品
 - [ip2region](https://ip2region.net/)
 - [free-fs](https://free-fs.top/zh)
