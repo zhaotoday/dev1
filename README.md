@@ -49,6 +49,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [smiley-sans](https://github.com/atelier-anchor/smiley-sans)
 - [pig-ui](https://github.com/pig-mesh/pig-ui)
 - [redroom](https://github.com/Owlinkai/redroom)
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 
