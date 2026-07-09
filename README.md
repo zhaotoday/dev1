@@ -49,6 +49,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
 - [smiley-sans](https://github.com/atelier-anchor/smiley-sans)
 - [pig-ui](https://github.com/pig-mesh/pig-ui)
 - [redroom](https://github.com/Owlinkai/redroom)
