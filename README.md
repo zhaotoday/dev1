@@ -49,6 +49,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
 - [open-meteo](https://github.com/open-meteo/open-meteo)
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
 - [smiley-sans](https://github.com/atelier-anchor/smiley-sans)
