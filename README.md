@@ -20,6 +20,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [Navicat](https://github.com/shuhongfan/NavicatCracker/tree/main/V16.2-%E6%97%A0%E9%99%90%E8%AF%95%E7%94%A8)
 - [programmingfonts](https://www.programmingfonts.org/)
 - [clumsy](https://jagt.github.io/clumsy/)
 
