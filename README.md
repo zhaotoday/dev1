@@ -1,4 +1,5 @@
 #### 网站
+- [魔方简历](https://magicv.art/zh)
 - [wipo](https://www.wipo.int/portal/zh/)
 - [webfunny](https://www.webfunny.com/)
 - [sentry](https://sentry.io/)
