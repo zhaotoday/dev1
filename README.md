@@ -52,6 +52,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [flashlight](https://github.com/bamlab/flashlight)
 - [magic-resume](https://github.com/JOYCEQL/magic-resume)
 - [Awesome-offer](https://github.com/lietoumai/Awesome-offer)
 - [open-meteo](https://github.com/open-meteo/open-meteo)
