@@ -55,6 +55,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 - [flashlight](https://github.com/bamlab/flashlight)
 - [magic-resume](https://github.com/JOYCEQL/magic-resume)
 - [Awesome-offer](https://github.com/lietoumai/Awesome-offer)
