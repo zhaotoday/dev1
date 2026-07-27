@@ -56,6 +56,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [oomwoo](https://github.com/makerspet/oomwoo)
 - [openship](https://github.com/oblien/openship)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 - [flashlight](https://github.com/bamlab/flashlight)
