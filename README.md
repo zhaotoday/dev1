@@ -57,6 +57,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [PeaZip](https://github.com/peazip/PeaZip)
 - [oomwoo](https://github.com/makerspet/oomwoo)
 - [openship](https://github.com/oblien/openship)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
