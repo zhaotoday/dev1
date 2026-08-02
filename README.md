@@ -57,6 +57,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [filebrowser](https://github.com/gtsteffaniak/filebrowser)
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer)
 - [PeaZip](https://github.com/peazip/PeaZip)
 - [oomwoo](https://github.com/makerspet/oomwoo)
