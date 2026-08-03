@@ -58,6 +58,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [crm](https://github.com/trycompai/crm)
 - [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)
 - [filebrowser](https://github.com/gtsteffaniak/filebrowser)
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer)
