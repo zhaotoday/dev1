@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [zealot](https://github.com/tryzealot/zealot)
 - [photopea](https://github.com/photopea/photopea)
 - [marktext](https://github.com/marktext/marktext)
 - [Win-Top](https://github.com/nickshui/Win-Top)
