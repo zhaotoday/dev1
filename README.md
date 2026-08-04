@@ -58,6 +58,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [oba-live-tool](https://github.com/qiutongxue/oba-live-tool)
 - [crm](https://github.com/trycompai/crm)
 - [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)
 - [filebrowser](https://github.com/gtsteffaniak/filebrowser)
