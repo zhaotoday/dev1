@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [uptime-kuma](https://github.com/louislam/uptime-kuma)
 - [zealot](https://github.com/tryzealot/zealot)
 - [photopea](https://github.com/photopea/photopea)
 - [marktext](https://github.com/marktext/marktext)
