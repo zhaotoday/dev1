@@ -59,6 +59,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [hubot](https://github.com/hubotio/hubot)
 - [openimsdk](https://github.com/openimsdk)
 - [trackawesomelist](https://github.com/trackawesomelist/trackawesomelist)
 - [oba-live-tool](https://github.com/qiutongxue/oba-live-tool)
