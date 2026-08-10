@@ -59,6 +59,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [chat-sdk](https://chat-sdk.dev/)
 - [hubot](https://github.com/hubotio/hubot)
 - [openimsdk](https://github.com/openimsdk)
 - [trackawesomelist](https://github.com/trackawesomelist/trackawesomelist)
