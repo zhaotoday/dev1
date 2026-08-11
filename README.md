@@ -62,6 +62,7 @@
 - [IPTV](https://github.com/Free-TV/IPTV)
 - [chat-sdk](https://chat-sdk.dev/)
 - [hubot](https://github.com/hubotio/hubot)
+- [wildfirechat](https://github.com/wildfirechat)
 - [openimsdk](https://github.com/openimsdk)
 - [trackawesomelist](https://github.com/trackawesomelist/trackawesomelist)
 - [oba-live-tool](https://github.com/qiutongxue/oba-live-tool)
