@@ -59,6 +59,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 - [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)
 - [LinkSwift](https://github.com/hmjz100/LinkSwift)
 - [immich](https://github.com/immich-app/immich)
