@@ -59,6 +59,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [LinkSwift](https://github.com/hmjz100/LinkSwift)
 - [immich](https://github.com/immich-app/immich)
 - [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 - [zhaoolee/pi](https://github.com/zhaoolee/pi)
