@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [anything-analyzer](https://github.com/Mouseww/anything-analyzer)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma)
 - [zealot](https://github.com/tryzealot/zealot)
 - [photopea](https://github.com/photopea/photopea)
