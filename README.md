@@ -61,6 +61,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [openpencil](https://github.com/ZSeven-W/openpencil)
 - [OpenRoom](https://github.com/MiniMax-AI/OpenRoom)
 - [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 - [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)
