@@ -61,6 +61,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Motrix](https://github.com/agalwood/Motrix)
 - [openpencil](https://github.com/ZSeven-W/openpencil)
 - [OpenRoom](https://github.com/MiniMax-AI/OpenRoom)
 - [SmsForwarder](https://github.com/pppscn/SmsForwarder)
