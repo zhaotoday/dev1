@@ -61,6 +61,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next)
 - [Motrix](https://github.com/agalwood/Motrix)
 - [openpencil](https://github.com/ZSeven-W/openpencil)
