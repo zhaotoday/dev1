@@ -61,6 +61,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [m3e-canvas](https://github.com/lnkiai/m3e-canvas)
 - [remote-mic-app](https://github.com/HD838A/remote-mic-app)
 - [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next)
