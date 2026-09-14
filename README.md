@@ -62,6 +62,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [erpnext](https://github.com/frappe/erpnext)
 - [m3e-canvas](https://github.com/lnkiai/m3e-canvas)
 - [remote-mic-app](https://github.com/HD838A/remote-mic-app)
 - [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
