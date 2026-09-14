@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [netcatty](https://netcatty.app/zh/)
 - [MyIP](https://github.com/jason5ng32/MyIP)
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma)
