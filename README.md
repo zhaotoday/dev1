@@ -65,6 +65,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [tinyauth](https://github.com/tinyauthapp/tinyauth)
 - [erpnext](https://github.com/frappe/erpnext)
 - [m3e-canvas](https://github.com/lnkiai/m3e-canvas)
 - [remote-mic-app](https://github.com/HD838A/remote-mic-app)
