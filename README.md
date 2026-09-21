@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [PowerToys](https://github.com/microsoft/PowerToys)
 - [appwrite](https://github.com/appwrite/appwrite)
 - [netcatty](https://netcatty.app/zh/)
 - [MyIP](https://github.com/jason5ng32/MyIP)
