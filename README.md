@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [mailflare](https://github.com/hieunc229/mailflare)
 - [hydra](https://github.com/ja7ad/hydra)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [appwrite](https://github.com/appwrite/appwrite)
