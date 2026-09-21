@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [hydra](https://github.com/ja7ad/hydra)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [appwrite](https://github.com/appwrite/appwrite)
 - [netcatty](https://netcatty.app/zh/)
