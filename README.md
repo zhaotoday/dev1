@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [deskhop](https://github.com/hrvach/deskhop)
 - [neon](https://neon.com/)
 - [井云](https://jingyun.studio/zh)
 - [Olares](https://github.com/beclab/Olares)
