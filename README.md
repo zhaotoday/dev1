@@ -70,6 +70,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack)
 - [tinyauth](https://github.com/tinyauthapp/tinyauth)
 - [erpnext](https://github.com/frappe/erpnext)
 - [m3e-canvas](https://github.com/lnkiai/m3e-canvas)
