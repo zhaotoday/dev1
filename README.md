@@ -24,6 +24,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)
 - [deskhop](https://github.com/hrvach/deskhop)
 - [neon](https://neon.com/)
 - [井云](https://jingyun.studio/zh)
