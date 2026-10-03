@@ -19,6 +19,7 @@
 - [npmx](https://npmx.dev/)
 
 #### 文档
+- [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)
 - [FMHY](https://github.com/fmhy/FMHY)
 - [开源软件指南](https://opensource.guide/zh-hans/)
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
