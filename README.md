@@ -26,6 +26,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [sshx](https://github.com/ekzhang/sshx)
 - [globalping](https://github.com/jsdelivr/globalping)
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)
 - [deskhop](https://github.com/hrvach/deskhop)
