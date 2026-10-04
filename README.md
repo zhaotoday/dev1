@@ -26,6 +26,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [globalping](https://github.com/jsdelivr/globalping)
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)
 - [deskhop](https://github.com/hrvach/deskhop)
 - [neon](https://neon.com/)
