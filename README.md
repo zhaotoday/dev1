@@ -26,6 +26,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [photocraft](https://github.com/storytold/photocraft)
 - [sshx](https://github.com/ekzhang/sshx)
 - [globalping](https://github.com/jsdelivr/globalping)
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)
