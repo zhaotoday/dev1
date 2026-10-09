@@ -26,6 +26,7 @@
 - [WecomTeam](https://github.com/WecomTeam)
 
 #### 工具
+- [Compositor](https://github.com/robbietilton/Compositor)
 - [photocraft](https://github.com/storytold/photocraft)
 - [sshx](https://github.com/ekzhang/sshx)
 - [globalping](https://github.com/jsdelivr/globalping)
