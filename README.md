@@ -79,6 +79,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)
 - [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack)
 - [tinyauth](https://github.com/tinyauthapp/tinyauth)
 - [erpnext](https://github.com/frappe/erpnext)
