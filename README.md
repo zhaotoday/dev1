@@ -19,6 +19,9 @@
 - [nexty](https://nexty.dev/)
 - [npmx](https://npmx.dev/)
 
+#### 博客
+- [lovstudio](https://lovstudio.ai/)
+
 #### 文档
 - [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)
 - [FMHY](https://github.com/fmhy/FMHY)
