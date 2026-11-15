@@ -85,6 +85,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [MoviePilot](https://github.com/jxxghp/MoviePilot)
 - [qinglong](https://github.com/whyour/qinglong)
 - [cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)
 - [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack)
