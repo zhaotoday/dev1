@@ -1,4 +1,5 @@
 #### 网站
+- [快米兔商业](https://www.52pay.com/)
 - [scrapfly](https://scrapfly.io/)
 - [kmitu](https://www.kmitu.com/)
 - [hero-sms](https://hero-sms.com/cn)
