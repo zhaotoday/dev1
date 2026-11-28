@@ -86,6 +86,7 @@
 - [AI Code With](https://aicodewith.com/zh)
 
 #### 开源
+- [livebook](https://github.com/derekfuture/livebook)
 - [opengame](https://github.com/nexu-io/opengame)
 - [MoviePilot](https://github.com/jxxghp/MoviePilot)
 - [qinglong](https://github.com/whyour/qinglong)
